@@ -1,6 +1,6 @@
 import { Footer } from "@/components/Footer";
-import Headline from "@/components/Headline";
-import Links from "@/components/Links";
+import { Headline } from "@/components/Headline";
+import { Links } from "@/components/Links";
 import Image from "next/image";
 // https://qiita.com/naoyuki2/items/62f9beccbfe36eaf7f90
 export default function Home() {

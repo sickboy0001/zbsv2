@@ -1,4 +1,4 @@
-export default function Headline(props: any) {
+export function Headline(props: any) {
   //   console.log("props");
   //   console.log(props);
   return (
