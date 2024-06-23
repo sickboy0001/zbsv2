@@ -1,7 +1,7 @@
 export function Footer() {
   return (
     <footer>
-      <div>CopyRight xxxx</div>
+      <div className="font-bold text-sm text-orange-400">CopyRight xxxx</div>
     </footer>
   );
 }
